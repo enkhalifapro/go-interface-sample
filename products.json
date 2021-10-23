@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "vendnorId": 1,
+    "name": "MacBook pro"
+  },
+  {
+    "id": 2,
+    "vendnorId": 1,
+    "name": "Iphone 12 pro"
+  },
+  {
+    "id": 3,
+    "vendnorId": 2,
+    "name": "Galaxy Note"
+  }
+]
